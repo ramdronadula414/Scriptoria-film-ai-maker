@@ -2,3 +2,4 @@ streamlit
 google-genai
 reportlab
 python-docx
+google-generativeai
