@@ -1,4 +1,5 @@
 streamlit
+streamlit-option-menu
 google-genai
 reportlab
 python-docx
